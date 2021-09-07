@@ -4,6 +4,7 @@ import discord
 import requests
 import pandas as pd
 from pandas import DataFrame, read_csv
+import sys
 
 TOKEN = sys.argv[1]
 
